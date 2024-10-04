@@ -1,0 +1,4 @@
+You need to install the following node packages in order to execute the code and run the server :
+
+express
+mongoose
