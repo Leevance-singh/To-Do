@@ -1,0 +1,40 @@
+#heading {
+    background-color: rgb(42, 186, 186);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#lrparent {
+    background-color: aqua;
+    text-align: center;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    padding: 20px;
+    margin: 0 auto; 
+}
+
+#leftpane { 
+    background-color: aquamarine;
+    width: 40%;
+    height: 400px;
+    margin: 20px;
+}
+
+#rightpane {
+    background-color: antiquewhite;
+    width: 40%;
+    height: 400px;
+    margin: 20px;
+}
+ 
+.completed {
+    text-decoration: line-through;
+}
+
+.incompleted{
+    text-decoration: none;
+}
